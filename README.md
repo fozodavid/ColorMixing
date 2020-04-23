@@ -1,5 +1,7 @@
 # Arduino Color Mixing Lamp Extension
 
+![Light History](Assets/Figure_1.png "Light History")
+
 ## Purpose
 
 This repo is an extension for the Arduino Starter Kit Project 4 - Color Mixing Lamp. I added real time data charting.
