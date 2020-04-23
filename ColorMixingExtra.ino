@@ -1,6 +1,6 @@
+const int redLEDPin = 11;
+const int blueLEDPin = 10;
 const int greenLEDPin = 9;
-const int redLEDPin = 10;
-const int blueLEDPin = 11;
 
 const int redSensorPin = A0;
 const int greenSensorPin = A1;
